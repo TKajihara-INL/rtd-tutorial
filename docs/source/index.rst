@@ -1,22 +1,29 @@
-Welcome to Lumache's documentation!
+Welcome to ORCA documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+``ORCA`` (*Optimization of Real-time Capacity Allocation*) is a modeling toolset to accelerate real-time control and optimization of digital twins, including
+ virtual models of facilities, physical facilities, and interconnections to allow optimal control of physical facilities using virtual models. ORCA is
+ enabled by Idaho National Laboratory's `RAVEN <https://github.com/idaholab/raven>`_ and `DeepLynx <https://github.com/idaholab/Deep-Lynx>`_ software codes.
 
 Contents
---------
+^^^^^^^^
 
 .. toctree::
+   :maxdepth: 2
 
-   usage
+   orca
+   installation
+   examples
    api
+   requirements
+   supportAndContributions
+   license
+   acknowledgements
+
+Indices and tables
+^^^^^^^^^^^^^^^^^^
+
+* :ref:`genindex`
+* :ref:`modindex`
+
+.. image:: ORCA_transparent.png
