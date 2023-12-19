@@ -1,8 +1,8 @@
 API
 ===
 
-.. autosummary::
-   :toctree: generated
+.. toctree::
+   :maxdepth: 2
 
    api/optimization
    api/reward_forecast
