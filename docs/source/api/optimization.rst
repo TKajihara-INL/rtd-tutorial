@@ -5,7 +5,7 @@ Optimization
    :depth: 2
 
 
-.. autofunction:: LTIStateSpaceMPCPyomoOptimization.load_state_space_matrices
+.. autoclass:: LTIStateSpaceMPCPyomoOptimization.load_state_space_matrices
 .. autofunction:: LTIStateSpaceMPCPyomoOptimization.load_matrix_from_xml
 .. autofunction:: LTIStateSpaceMPCPyomoOptimization.x_bounds
 .. autofunction:: LTIStateSpaceMPCPyomoOptimization.u_bounds
