@@ -1,9 +1,8 @@
-API
-===
+Basic
+============
 
-.. autosummary::
-   :toctree: generated
+.. contents:: Table of Contents
+   :depth: 2
 
-   api/optimization
-   api/reward_forecast
-   api/basic
+
+.. autoclass:: LTIStateSpaceMPCPyomoOptimization.load_state_space_matrices
